@@ -18,24 +18,24 @@
 }
 
 .card__card{
-    width:40%;
+    width:20%;
     margin-bottom: 1rem;
     padding: 1rem;
     border-radius: 5px;
 }
 
 .green{
-    background-color: green !important;
+    background-color: #0D7377 !important;
     margin-right: 1rem;
 }
 
 
 .blue{
-    background-color: blue;
+    background-color: #323232;
 }
 
 .orange{
-    background-color: orange;
+    background-color: #14FFEC;
 }
 
 .red{

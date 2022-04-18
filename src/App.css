@@ -4,11 +4,14 @@
 
 .header{
   text-align: center !important;
+  color: white;
+  margin-top: 4rem;
 }
 
 .inputText{
   width:100%;
   margin-bottom: 1rem !important;
+  
 }
 
 .btn{

@@ -9,10 +9,16 @@
     width: 100%;
     margin-right: 1rem;
     margin-bottom: 1rem !important;
+    color: white !important;
+    border: 2px solid white !important;
 }
+
+
 
 .addTodo__btn{
     margin-left: 1rem !important;
-    width: 30%;
+    width: 10%;
     text-align: center;
+    color: white !important;
+    background-color: brown !important;
 }
