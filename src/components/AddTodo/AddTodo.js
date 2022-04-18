@@ -39,13 +39,17 @@ function AddTodo() {
         placeholder="Enter Todo..."
         className="addTodo__input"
       />
-      <Select value={select} onChange={onSelectChange}>
+      <Select
+        value={select}
+        onChange={onSelectChange}
+        style={{ color: "white", border: "2px solid white" }}
+      >
         <MenuItem value="doFirst">Do First</MenuItem>
         <MenuItem value="schedule">Schedule</MenuItem>
         <MenuItem value="delegate">Delegate</MenuItem>
         <MenuItem value="eliminate">Eliminate</MenuItem>
       </Select>
-      <Button onClick={onSubmit} variant="contained" className="addTodo__btn">
+      <Button onClick={onSubmit} className="addTodo__btn">
         Add
       </Button>
     </div>
