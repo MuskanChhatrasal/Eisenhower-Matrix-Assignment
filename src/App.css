@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  text-align: center !important;
+}
+
+.inputText{
+  width:100%;
+  margin-bottom: 1rem !important;
+}
+
+.btn{
+  margin: 0 0.5rem !important;
+}
+
+
+Button {
+  margin-right: 5px;
+}
